@@ -1,5 +1,5 @@
 # KNN
-"The k-nearest neighbor method in the image classification problem"
+# "The k-nearest neighbor method in the image classification problem"
 The purpose of the work: to master the basic concepts of the k-nearest
 neighbor (KNN) method in the image classification problem, as well as the principles
 of the Principal Component Analysis (PCA) method to
